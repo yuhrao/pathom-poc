@@ -1,0 +1,5 @@
+#kaocha/v1
+{:tests    [{:type :kaocha.type/clojure.test
+             :id   :all}]
+ :color?   true
+ :reporter [kaocha.report/dots]}
